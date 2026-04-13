@@ -22,7 +22,7 @@
 - `algorithms/heap_sort.py`: heap_sort function
 
 ## Video Demonstration
-Watch the 3-minute explanation video here:  
+Watch the 5-minute explanation video here:  
 [INSERT YOUR VIDEO LINK HERE]
 
 ## GitHub Repository
