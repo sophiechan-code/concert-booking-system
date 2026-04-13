@@ -2,18 +2,19 @@ import sys
 from system.booking_system import BookingSystem
 
 
-# def test_data(system: BookingSystem):
-#     system.add_artist("BLACKPINK", "YG Entertainment")
-#     system.add_artist("BTS", "HYBE")
-#     system.add_artist("Terence Lam", "TLP")
+def test_data(system: BookingSystem):
+    system.add_artist("BLACKPINK", "YG Entertainment")
+    system.add_artist("BTS", "HYBE")
+    system.add_artist("Terence Lam", "TLP")
     
-#     system.create_concert("BLACKPINK", "2024-12-25", "Seoul Olympic Stadium", max_tickets=2, price=2000.0)
-#     system.create_concert("BTS", "2024-11-20", "Wembley Stadium", max_tickets=50000, price=2050.0)
-#     system.create_concert("Terence Lam", "2025-08-19", "Hong Kong Hung Hum Stadium", max_tickets=30000, price=1888.0)
+    system.create_concert("BLACKPINK", "2024-12-25", "Seoul Olympic Stadium", max_tickets=2, price=2000.0)
+    system.create_concert("BTS", "2024-11-20", "Wembley Stadium", max_tickets=50000, price=2050.0)
+    system.create_concert("Terence Lam", "2025-08-19", "Hong Kong Hung Hum Stadium", max_tickets=30000, price=1888.0)
 
-#     system.add_fan("Terence", "terence@cls.com", is_vip=False)
-#     system.add_fan("Hins", "hins@test.com", is_vip=True, vip_level="Platinum")
-#     system.add_fan("Jas", "jas@test.com", is_vip=True, vip_level="Gold")
+    system.add_fan("Terence", "terence@cls.com", is_vip=False)
+    system.add_fan("Hins", "hins@test.com", is_vip=True, vip_level="Platinum")
+    system.add_fan("Jas", "jas@test.com", is_vip=True, vip_level="Gold")
+
 
 def main():
     print("=========================================")
@@ -21,7 +22,7 @@ def main():
     print("=========================================")
     
     system = BookingSystem()
-    # test_data(system)
+    test_data(system)
     
     while True:
         print("\n--- Main Menu ---")
@@ -74,7 +75,9 @@ def main():
                 
             print("\nAvailable Concerts: ")
             concerts = system.view_all_concerts()
-            
+            if not concerts:
+                continue
+                
             concert_idx = int(input("Select Concert ID: ")) - 1
             if concert_idx < 0 or concert_idx >= len(concerts):
                 print("Invalid concert")
