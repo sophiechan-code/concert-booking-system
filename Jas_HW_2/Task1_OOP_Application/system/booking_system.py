@@ -5,7 +5,6 @@ from models.booking import Booking
 from data_structures.heap import MaxHeap
 from algorithms.heap_sort import heap_sort
 
-
 class BookingSystem:
 
     def __init__(self):
