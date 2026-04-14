@@ -28,6 +28,7 @@ class MaxHeap:
     def _heapify_up(self, index: int) -> None:
         parent_index = self._parent(index)
 
+        
         if index > 0 and self._heap[parent_index] < self._heap[index]:
             self._swap(index, parent_index)
             self._heapify_up(parent_index)
