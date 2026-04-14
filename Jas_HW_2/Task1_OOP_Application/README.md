@@ -17,7 +17,7 @@ This is a Python-based concert booking system demonstrating core Object-Oriented
 ## Running Tests
 
 ## Video Demonstration
-Watch the 5-minute introduction video here:  
+Watch the 5 minutes introduction video here:  
 [INSERT YOUR VIDEO LINK HERE]
 
 ## GitHub Repository
