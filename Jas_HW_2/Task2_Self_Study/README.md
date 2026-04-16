@@ -23,7 +23,7 @@
 
 ## Video Demonstration
 Watch the 5-minute explanation video here:  
-[INSERT YOUR VIDEO LINK HERE]
+https://mailouhkedu-my.sharepoint.com/:v:/g/personal/s1388152_live_hkmu_edu_hk/IQAnkJpPUW7sSblsU1FvtKBCAWLJEAFA9yTnhIdMMUvZI34?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=h74s95 
 
 ## GitHub Repository
 https://github.com/sophiechan-code/concert-booking-system
