@@ -18,7 +18,7 @@ This is a Python-based concert booking system demonstrating core Object-Oriented
 
 ## Video Demonstration
 Watch the 5 minutes introduction video here:  
-https://mailouhkedu-my.sharepoint.com/:v:/g/personal/s1388152_live_hkmu_edu_hk/IQAnkJpPUW7sSblsU1FvtKBCAXAo5-ORQSSdjp6zukhP6Ns?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pcVfZP 
+[https://mailouhkedu-my.sharepoint.com/:v:/g/personal/s1388152_live_hkmu_edu_hk/IQAnkJpPUW7sSblsU1FvtKBCAXAo5-ORQSSdjp6zukhP6Ns?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pcVfZP ](https://mailouhkedu-my.sharepoint.com/:v:/r/personal/s1388152_live_hkmu_edu_hk/Documents/COMP%202090SEF%20Group%2087/Task%201.mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ftwWbX) 
 
 ## GitHub Repository
 This folder is part of: https://github.com/sophiechan-code/concert-booking-system
